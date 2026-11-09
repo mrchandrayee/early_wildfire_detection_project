@@ -1,0 +1,10 @@
+{
+  "confidence": 0.25,
+  "iou": 0.45,
+  "window_size": 10,
+  "snapshot_cooldown_sec": 3.0,
+  "box_thickness": 4,
+  "corner_ratio": 0.15,
+  "show_detail": true,
+  "snapshot_dir": "output/snapshots"
+}
